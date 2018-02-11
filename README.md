@@ -4,3 +4,4 @@ aims to generate all rest api infromations and conduct auto api testing with no 
 1. use reflection api
 2. collect data form test(handle map like request or response) by filter or interceptor
 3. annotation is the final tool
+# is it necessary to generate the topology of the whole spring application?
